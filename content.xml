@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260505230208KV082A</value>
+    <value>202605052306583YWUEE</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202605052302080F2H5K</value>
+    <value>20260505230658NEOP4M</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -1547,7 +1547,7 @@
     <odePagStructure>
       <odePageId>page-mosxbj72-gcefmk450</odePageId>
       <odeBlockId>block-1778014344612-aktj96huj</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Actividades complementarias</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -1579,9 +1579,12 @@
           <odeIdeviceId>idevice-1778014344612-0fxs495v9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    
+    <ul>
+<li><strong>Visita a una empresa tecnológica asturiana</strong> (TSK, Izertis, Seresco, Capgemini Asturias, ArcelorMittal IT, Telecable…). La visita puede programarse después del Sprint 1, cuando el alumnado ya entiende qué es desarrollar consumiendo APIs, para que la conversación con los profesionales sea significativa.<br /></li>
+<li><strong>Encuentro con un desarrollador en activo invitado al aula</strong>. Una sesión de 50 minutos en la que el profesional revise un par de webapps de los equipos y comente decisiones de arquitectura, código y proceso. Es una "Sprint Review externa" muy potente.</li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778014344612-0fxs495v9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778014344612-0fxs495v9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Visita a una empresa tecnológica asturiana</strong> (TSK, Izertis, Seresco, Capgemini Asturias, ArcelorMittal IT, Telecable…). La visita puede programarse después del Sprint 1, cuando el alumnado ya entiende qué es desarrollar consumiendo APIs, para que la conversación con los profesionales sea significativa.<br /></li>\n<li><strong>Encuentro con un desarrollador en activo invitado al aula</strong>. Una sesión de 50 minutos en la que el profesional revise un par de webapps de los equipos y comente decisiones de arquitectura, código y proceso. Es una \"Sprint Review externa\" muy potente.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
