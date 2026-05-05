@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260505225814XZ1T0K</value>
+    <value>20260505230208KV082A</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260505225814PKZEDW</value>
+    <value>202605052302080F2H5K</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -1725,26 +1725,32 @@
         <odeComponent>
           <odePageId>page-mosxbj72-0fu90ymgd</odePageId>
           <odeBlockId>block-1777900775184-79koft0vg</odeBlockId>
-          <odeIdeviceId>idevice-1777900775182-4a1fxdm6i</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777900775182-4a1fxdm6i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeIdeviceId>idevice-1778014860380-t18o54hjp</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Cartas Pokemon: Guía docente</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje para la asignatura de Lenguajes de Marcas y Sistemas de Gestión de Información para el alumnado de 1º en ciclos de formación Profesional Superior de DAW y DAM </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Rodrigo Serrán</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
